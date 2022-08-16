@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "Resume Builder",
+    "desc": "Resume Builder using Reactjs,Javascript",
+    "image": "resume",
+    "category": "frontend",
+    "links": {
+      "view": "https://resume-builder-project-web.netlify.app/",
+      "code": "https://github.com/Himanshu664/Resume-Builder"
+    }
+  },
+  {
     "name": "Portfolio",
     "desc": "Portfolio website made with HTML,CSS,Javascript,JQuery",
     "image": "portfolio",
