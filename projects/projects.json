@@ -12,7 +12,7 @@
   {
     "name": "Resume Builder",
     "desc": "Resume Builder using Reactjs,Javascript",
-    "image": "portfolio",
+    "image": "resume",
     "category": "frontend",
     "links": {
       "view": "https://resume-builder-project-web.netlify.app/",
