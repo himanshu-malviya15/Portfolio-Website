@@ -2,7 +2,7 @@
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://himanshu-portfolio-website.netlify.app" target="_blank">**Visit Now** 🚀</a>
+<a href="https://himanshu-malviya-portfolio.netlify.app" target="_blank">**Visit Now** 🚀</a>
 
 ## Tech Stack
 
