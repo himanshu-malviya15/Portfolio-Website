@@ -1,5 +1,25 @@
 [
   {
+    "name": "Maruti Suzuki Arena Pratham",
+    "desc": "Co-created and launched the Pratham Contest website in collaboration with Maruti Suzuki Arena, Implemented 5 major functionalities, including a wheel randomizer, dice, flipcards, scoreboard, and leaderboard. The website received participation from 118 individual",
+    "image": "suzuki",
+    "category": "mern",
+    "links": {
+      "view": "https://jobsportalwebite.vercel.app/",
+      "code": "https://github.com/himanshu-malviya15/Suzuki_Arena"
+    }
+  },
+  {
+    "name": "Job Portal",
+    "desc": "Streamlined job search and bookmarking, introducing organized DataTable views for effortless job tracking,Empowered employers with efficient application tracking and facilitated real-time status updates for job seekers",
+    "image": "jobportal",
+    "category": "frontend",
+    "links": {
+      "view": "https://jobsportalwebite.vercel.app/",
+      "code": "https://github.com/himanshu-malviya15/Job-Portal"
+    }
+  },
+  {
     "name": "MERN Chat App",
     "desc": "MERN Chat App User can chat one to one,User get realtime notification through socket.io,Tech Stack: React, Node JS, Express JS,MongoDB",
     "image": "mernchat",
