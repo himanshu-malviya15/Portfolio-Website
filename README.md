@@ -46,7 +46,7 @@ The website is hosted on Netlify, and the deployment process was straightforward
 
 ## Sneak Peek of Main Page 🙈 
 
-![port](https://user-images.githubusercontent.com/76220055/185388925-149aec30-133c-4204-9d37-519c09ebf358.jpg)
+![image](https://github.com/himanshu-malviya15/Portfolio-Website/assets/76220055/a8ba968c-8cbd-48c4-b784-a3e92cb83843)
 
 
  Made by **Himanshu Malviya**
